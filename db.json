@@ -11,4 +11,6 @@
   "profile": {
     "name": "typicode"
   }
+  "clients":{
+  {'clientWrappers': [{'clientID': '1.2.3.4.5.6.7', 'clientName': 'VinothTest', 'cloudIDOptIn': None, 'clientCode': 'NHT', 'defaultTrustScore': 110.0, 'bucketName': None, 'matchingModel': None, 'entityAttributeScoringFlag': 'N', 'enableAutoDeleteIdentical': 'Y', 'lastUpdateBy': None, 'lastUpdateDate': None}]}
 }
