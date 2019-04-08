@@ -10,7 +10,7 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
   "clients":{
   {"clientWrappers": [{"clientID": "1.2.3.4.5.6.7", "clientName": "VinothTest", "cloudIDOptIn": "", "clientCode": "NHT", "defaultTrustScore": 110.0, "bucketName": "", "matchingModel": "", "entityAttributeScoringFlag": "N", "enableAutoDeleteIdentical":"Y", "lastUpdateBy": "", "lastUpdateDate": ""}]}
 }
